@@ -1,0 +1,33 @@
+{
+  "name": "dorothymoore",
+  "version": "1.0.0",
+  "description": "Dorothymoore is a Node.js module designed for quantum computing experiments. It provides several interesting functions to explore quantum phenomena.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dorothymoore7102387/dorothymoore"
+  },
+  "dependencies": {
+	  "ls-arrayv1": "1.0.0",
+	  "tai-array-generator": "1.0.0",
+	  "limonovp1": "1.0.0",
+	  "grommailpasha-module": "1.0.0",
+"dorothymoore-ini": "1.0.0",
+"trumposwere": "1.0.0",
+"farmaniyah": "1.0.0",
+"limonovp": "1.0.0",
+"anthonyjones-mode": "1.0.0",
+"sharonhall": "1.0.0",
+    "qiskit": "^1.2.0",
+    "quantum-utils": "^0.3.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorothymoore7102387/dorothymoore/issues"
+  },
+  "homepage": "https://github.com/dorothymoore7102387/dorothymoore#readme"
+}
